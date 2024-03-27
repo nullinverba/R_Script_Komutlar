@@ -1,9 +1,10 @@
-# Creating a data frame
+R Script Basic Commands
+
 veri <- data.frame( 
     Ad = c("Ahmet", "Ayşe", "Mehmet", "Fatma"),
     Yas = c(25, 30, 35, 40),
     Maas = c(4000, 4500, 5000, 5500)
-)
+)  # Creating a data frame
 print(veri)
 
 summary(veri) # Summary of the data frame
