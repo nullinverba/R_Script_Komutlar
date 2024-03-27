@@ -1,4 +1,4 @@
-R Script Basic Commands
+#R Script Basic Commands
 
 veri <- data.frame( 
     Ad = c("Ahmet", "Ayşe", "Mehmet", "Fatma"),
